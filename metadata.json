@@ -1,0 +1,6 @@
+{
+  "name": "PhonePe",
+  "description": "PhonePe UPI payments app clone featuring money transfers, mobile recharges, bill payments, QR scanner, and wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
